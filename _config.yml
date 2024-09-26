@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_xykong.jpg"
+  avatar           : "xunyu.png"
   name             : "Xiangyu Kong"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Computer School, Beijing Information Science & Technology University, Adjunct Researcher at Multi-Agent Lab, Beijing Institute for General Artificial Intelligence (BIGAI)."
