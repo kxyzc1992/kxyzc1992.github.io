@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kxyzc1992.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xunyu.png"
+  avatar           : "profile_xykong.jpg"
   name             : "Xiangyu Kong"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Computer School, Beijing Information Science & Technology University, Adjunct Researcher at Multi-Agent Lab, Beijing Institute for General Artificial Intelligence (BIGAI)."
   location         : "Beijing China"
   employer         : "Red Brick University"
-  uri              : "https://kxyzc1992.github.io"
+  uri              : #
   email            : "xykong@bistu.edu.cn" 
 
   # Academic websites
