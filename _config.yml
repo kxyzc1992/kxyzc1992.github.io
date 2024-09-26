@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_xykong.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Xiangyu Kong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Lecturer in Computer School, Beijing Information Science & Technology University, Adjunct Researcher at Multi-Agent Lab, Beijing Institute for General Artificial Intelligence (BIGAI)."
+  location         : "Beijing China"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://kxyzc1992.github.io"
+  email            : "xykong@bistu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
