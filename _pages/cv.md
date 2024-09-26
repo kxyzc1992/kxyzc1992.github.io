@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Peking University, 2019
+* B.S. in Computer Science and Technology, Harbin Institute of Technology, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2023: Lecturer
+  * Department of Data Science, Computer School
+  * Beijing Information Science & Technology University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023: Researcher
+  * Multi-Agent Lab, Center for Advanced Research
+  * Beijing Institute for General Artificial Intelligence (BIGAI)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul. 2019 - Mar. 2023: Researcher
+  * Media Computing (MC) Group
+  * Microsoft Research Asia (MSRA)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jul. 2016 - Jan. 2017: Research Intern
+  * Visual Computing (VC) Group
+  * Microsoft Research Asia (MSRA)
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% https://www.youtube.com/watch?v=DGNG5ql5nDI %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* AI-based Speech Processing, 2025 Fall
   
-Service and leadership
+Review Duty
 ======
-* Currently signed in to 43 different slack teams
+* CVPR, ICLR, ICML, NeurIPS, Interspeech
+
+Academic Service
+======
+* 
